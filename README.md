@@ -1,1 +1,29 @@
-# MobileAppDesign
+# Cook It!
+
+### App Description
+An app that provides cooking recipes and cooking tutorials via both text and video. When users view a recipe, they have three options: they can choose to simply view the recipe text by itself, they can choose to include a video guide that plays alongside each individual step in the recipe text, or they can choose to watch an entire step-by-step video guide for the whole recipe without text.
+
+### App Idea Evaluation
+
+- Category: Lifestyle, Education, Health & Fitness
+- Mobile: Mobile makes it easy to acces cooking tutorials anywhere you can do some cooking, as well as for reading up on recipes while on the go. The app uses audio and video to display step-by-step tutorials.
+- Story: Provides easy access to a multitude of cooking recipes, and gives people with varying amounts of cooking experience - even beginners - the chance to try their hand at making new dishes with easy-to-follow cooking tutorials. 
+- Market: Anyone can use this app, as the varying options to view recipes and tutorials (via text and/or audio-visual) provide enhanced accessibility for anyone with disabilities.
+- Habit: This can be used anytime anyone needs to cook, with simple everyday recipes as well as advanced recipes for special occassions.
+- Scope: The most stripped-down version would simply be a collection of text recipes and step-by-step text tutorials, which would be simple to implement and still serve its purpose. Later versions would include more advanced features such as adding the video guides and giving users the option to choose text or video, which would be more challenging to implement.
+
+---
+
+### User Stories
+// TODO: Enumerate User Stories
+1. User can...
+
+---
+
+### Wireframes
+// TODO: Add Wireframe Images
+
+---
+
+### App Pitch Presentation
+// TODO: Add link to Pitch Presentation Deck
