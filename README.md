@@ -14,9 +14,62 @@ An app that provides cooking recipes and cooking tutorials via both text and vid
 
 ---
 
-### User Stories
-// TODO: Enumerate User Stories
-1. User can...
+### User Stories (Required and Optional)
+
+**Required Must-have Stories**
+
+* User can create an account
+* User can login
+* User can browse a library of text recipes
+* User can browse recipes filtered by user-chosen criteria
+* User can view an individual recipe
+* User can search for a specific recipe
+* User can favorite/bookmark a recipe
+
+**Optional Nice-to-have Stories**
+
+* User can view an individual recipe's walkthrough video
+* User can rate recipes
+* User can be suggested recipes based on what they've rated/bookmarked
+* User can add a comment on recipes
+* User can view other users' comments on recipes
+
+### Screen Archetypes
+
+* Registration Screen
+    * User can create an account
+* Login Screen
+    * User can login
+* Stream
+    * User can browse a library of text recipes
+    * User can browse recipes filtered by various user-chosen criteria (popularity, user comments, difficulty, etc)
+    * User can favorite/bookmark a recipe by tapping an icon next to the recipe title
+* Detail
+    * User can view an individual recipe
+    * User can favorite/bookmark a recipe by tapping an icon next to the recipe title
+* Search
+    * User can search for an individual recipe via various user-chosen criteria (name of recipe, ingredients used, prep time, etc)
+
+### Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+* Home Recipe Feed
+* Favorite/Bookmarked Recipes
+* Search Recipe
+
+**Flow Navigation** (Screen to Screen)
+
+* Registration Screen
+    * Home (Stream)
+* Login Screen
+    * Home (Stream)
+* Stream Screen
+    * Detail
+* Detail
+    * Home (Stream)/Stream (returns to where it came from)
+* Search
+    * Detail
 
 ---
 
