@@ -75,7 +75,10 @@ An app that provides cooking recipes and cooking tutorials via both text and vid
 ---
 
 ### Wireframes
-// TODO: Add Wireframe Images
+
+![WireframeStatic](https://i.imgur.com/Faqes5c.png)
+
+![WireframePrototype](https://media.giphy.com/media/8AjuLEYizkgz00CZZG/giphy.gif)
 
 ---
 
