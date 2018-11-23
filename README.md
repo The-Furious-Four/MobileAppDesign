@@ -57,6 +57,7 @@ An app that provides cooking recipes and cooking tutorials via both text and vid
 * Home Recipe Feed
 * Favorite/Bookmarked Recipes
 * Search Recipe
+* Register/Login
 
 **Flow Navigation** (Screen to Screen)
 
